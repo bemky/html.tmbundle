@@ -3,16 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;div${1: class="${2}"}&gt;
-	${0:$TM_SELECTED_TEXT}
-&lt;/div&gt;</string>
+	<string>&lt;script&gt;
+	$0
+&lt;/script&gt;</string>
 	<key>name</key>
-	<string>Div</string>
+	<string>Script</string>
 	<key>scope</key>
 	<string>text.html - B:meta.tag - B:text.html meta.embedded</string>
 	<key>tabTrigger</key>
-	<string>div</string>
+	<string>script</string>
 	<key>uuid</key>
-	<string>576036C0-A60E-11D9-ABD6-000D93C8BE28</string>
+	<string>6592050A-A087-11D9-A5A2-000D93C8BE28</string>
 </dict>
 </plist>
